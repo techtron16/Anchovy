@@ -1,0 +1,2 @@
+cmvision:color_tracker
+-DCATKIN_DEVEL_PREFIX=/home/anchovy/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anchovy/catkin_ws/install -G Unix Makefiles
